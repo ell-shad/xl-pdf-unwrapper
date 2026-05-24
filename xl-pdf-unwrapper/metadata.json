@@ -1,0 +1,6 @@
+{
+  "name": "XL-PDF Unwrapper",
+  "description": "Extract embedded PDF files from Excel OLE objects (.xlsx, .xlsm) without any PDF reqder requirement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
